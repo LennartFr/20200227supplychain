@@ -1,6 +1,6 @@
 # How to Create a Supply Chain Blockchain App
 
-<img src=" ">
+<img src="Screen Shot 2020-02-23 at 7.31.05 AM.png">
 
 
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
