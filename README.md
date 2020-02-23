@@ -22,6 +22,8 @@
  3. An account on the IBM Cloud: https://www.ibm.com/cloud
  4. Followed by the signing up to the IBM Blockchain Platform Service:   https://ibm.co/398sxeT
 
+Download VS Studio code https://code.visualstudio.com/updates/v1_38
+
 
 
                
