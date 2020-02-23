@@ -21,6 +21,13 @@
  2. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
  3. An account on the IBM Cloud: https://www.ibm.com/cloud
  4. Followed by the signing up to the IBM Blockchain Platform Service:   https://ibm.co/398sxeT
+ 5. VS Code Extension https://bit.ly/2RS2R02
+ 
+ IBM Blockchain 101: https://ibm.co/36U1QZM
+ 
+ Blockchain code patterns: https://ibm.co/2GROsL0
+.  
+
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38
 
