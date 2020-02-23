@@ -3,6 +3,9 @@
 <img src="Screen Shot 2020-02-23 at 7.31.05 AM.png">
 
 
+<img src='Screen Shot 2020-02-23 at 7.56.59 AM.png">
+
+
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
 ## [Blockchain Platform in the IBM Cloud](https://cloud.ibm.com/catalog/services/blockchain-platform)
