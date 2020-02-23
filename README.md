@@ -7,6 +7,8 @@
 
 <img src="Blockchain.png">
 
+<img src="Transactions.png">
+
 
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
