@@ -1,4 +1,4 @@
-# https://github.com/LennartFr/20200227supplychain
+# https://bit.ly/2PhVNrP
 
 # https://www.slideshare.net/LennartF
 
