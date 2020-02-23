@@ -1,8 +1,11 @@
+# https://github.com/LennartFr/20200227supplychain
+
+# https://www.slideshare.net/LennartF
+
 # How to Create a Supply Chain Blockchain App
 
 <img src="Screen Shot 2020-02-23 at 7.31.05 AM.png">
-
-
+                                                           
 <img src="Screen Shot 2020-02-23 at 7.56.59 AM.png">
 
 <img src="Blockchain.png">
