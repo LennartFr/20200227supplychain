@@ -35,5 +35,12 @@
 Download VS Studio code https://code.visualstudio.com/updates/v1_38
 
 
+# Tutorial 1
+
+Local Smart Contract Development
+
+Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
+
+
 
                
