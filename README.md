@@ -27,7 +27,6 @@
 
 ## https://www.hyperledger.org/projects/fabric
 
-
 <img src="BP1.png">
 
 ================================================================================================
@@ -71,8 +70,7 @@ https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 
 # <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
-<a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/"Create a fair trade supply chain network
-Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
+<a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
 
 Follow tutorials
 
