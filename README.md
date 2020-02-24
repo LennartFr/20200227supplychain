@@ -18,7 +18,16 @@
 <p>
 <img src="Screen Shot 2020-02-23 at 7.56.59 AM.png">
 <p><p><p><p><p>
- 
+## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
+
+## [It offers a unique approach to consensus that enables performance at scale while also preserving the data privacy enterprises demand.](https://www.hyperledger.org/resources/publications/blockchain-performance-metrics)
+
+## https://hyperledger-fabric.readthedocs.io/en/release-2.0/
+
+## https://www.hyperledger.org/projects/fabric
+
+
+
 <img src="Blockchain.png">
 
 ===============================================================================================
@@ -45,14 +54,6 @@
 
 
 ## You can also run Hyperledger Fabric natively in Kubernetes. Free for 30 days
-
-## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
-
-## [It offers a unique approach to consensus that enables performance at scale while also preserving the data privacy enterprises demand.](https://www.hyperledger.org/resources/publications/blockchain-performance-metrics)
-
-## https://hyperledger-fabric.readthedocs.io/en/release-2.0/
-
-## https://www.hyperledger.org/projects/fabric
 
 ## [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
 
