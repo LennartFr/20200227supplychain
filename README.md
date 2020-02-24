@@ -18,6 +18,7 @@
 <p>
 <img src="Screen Shot 2020-02-23 at 7.56.59 AM.png">
 <p><p><p><p><p>
+  
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
 ## [It offers a unique approach to consensus that enables performance at scale while also preserving the data privacy enterprises demand.](https://www.hyperledger.org/resources/publications/blockchain-performance-metrics)
