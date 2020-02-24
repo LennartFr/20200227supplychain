@@ -35,6 +35,8 @@
 
 ## [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
 
+# For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
+
 # Development Tools
 
  1. Visual Studio Code: https://code.visualstudio.com
