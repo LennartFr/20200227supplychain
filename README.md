@@ -69,7 +69,7 @@ This extension supports the complete development workflow for Hyperledger Fabric
 
 https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 
-https://youtu.be/5b7awLi93-E
+<a  href="https://youtu.be/5b7awLi93-E">Grantt Steinfeld</a>
 
 Follow tutorials
 
