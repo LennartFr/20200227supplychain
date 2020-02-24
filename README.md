@@ -10,13 +10,7 @@
 
 ## [Blockchain Platform in the IBM Cloud](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
-  <img src="Satoshi.png">
-  <p>
-  https://bitcoin.org/bitcoin.pdf
  
-<p>
-<img src="Screen Shot 2020-02-23 at 7.56.59 AM.png">
-<p><p><p><p><p>
   
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
