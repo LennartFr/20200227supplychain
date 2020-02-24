@@ -69,7 +69,9 @@
  IBM Blockchain 101: https://ibm.co/36U1QZM
  
  Blockchain code patterns: https://ibm.co/2GROsL0
-.  
+  
+<a href="Bean.png">
+
 
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38
