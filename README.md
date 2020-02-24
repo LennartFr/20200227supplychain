@@ -69,7 +69,7 @@ This extension supports the complete development workflow for Hyperledger Fabric
 
 https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 
-#  <a  href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply ChainBlockchain on Hyperledger Fabric</a>
+#  <a  href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
 Follow tutorials
 
