@@ -67,6 +67,8 @@ This extension supports the complete development workflow for Hyperledger Fabric
 
 # Hands-on Blockchain
 
+https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
+
 https://youtu.be/5b7awLi93-E
 
 Follow tutorials
@@ -80,7 +82,6 @@ Follow the typical workflow from generating a new default smart contract project
 # Tutorial 2
 
 Create a cloud blockchain deployment
-
 
 After developing a smart contract against the local runtime, you'll need somewhere more permanent to deploy for further dev, proof of concept, or production use. IBM Blockchain Platform includes an offering on IBM Cloud for creating and operating a suitable runtime environment for such purposes. Its full name is "IBM Blockchain Platform on IBM Cloud", but for the sake of brevity we'll refer to it from here on out as "the cloud service". In this tutorial you will learn how to get a cloud environment set up using the cloud service.
 
