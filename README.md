@@ -42,7 +42,7 @@
 
 ## <a href="https://www.tradelens.com">Trade Lens</a>
 
-## <a href="https://www.ibm.com/blockchain/industries/supply-chain>IBM Blockchain for Supply Chain </a>
+## <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
 
 ## <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
