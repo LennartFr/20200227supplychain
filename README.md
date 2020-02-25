@@ -38,11 +38,11 @@
 
 # Supply Chain Apps
 
-## [https://www.ibm.com/blockchain/solutions/food-trust](IBM Food Trust]
+## [https://www.ibm.com/blockchain/solutions/food-trust] (IBM Food Trust]
 
-## [https://www.tradelens.com](Trade Lens) 
+## [https://www.tradelens.com] (Trade Lens) 
 
-## [https://www.ibm.com/blockchain/industries/supply-chain](IBM Blockchain for Supply Chain)
+## <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain</a>
 
 
 ## You can also run Hyperledger Fabric natively in Kubernetes. Free for 30 days
