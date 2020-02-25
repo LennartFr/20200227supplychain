@@ -36,6 +36,12 @@
 
 ================================================================================================
 
+# Suoply Chain Apps
+
+[https://www.ibm.com/blockchain/solutions/food-trust](IBM Food Trust]
+
+[https://www.tradelens.com](Trade Lens)
+
 
 ## You can also run Hyperledger Fabric natively in Kubernetes. Free for 30 days
 
