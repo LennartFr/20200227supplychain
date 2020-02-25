@@ -57,7 +57,8 @@
 <a href="Bean.png">
 
 
-Download VS Studio code https://code.visualstudio.com/updates/v1_38
+Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
+For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
 
