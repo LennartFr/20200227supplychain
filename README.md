@@ -36,7 +36,7 @@
 
 ================================================================================================
 
-# Suoply Chain Apps
+# Supply Chain Apps
 
 [https://www.ibm.com/blockchain/solutions/food-trust](IBM Food Trust]
 
