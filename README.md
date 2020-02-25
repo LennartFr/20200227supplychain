@@ -20,7 +20,7 @@
 
 <img src="Transactions.png">
 
-<a href="Ledger.png">
+<img src="Ledger.png">
 
 
 
