@@ -42,6 +42,8 @@
 
 [https://www.tradelens.com](Trade Lens)
 
+[https://www.ibm.com/blockchain/industries/supply-chain](IBM Blockchain for Supply Chain)
+
 
 ## You can also run Hyperledger Fabric natively in Kubernetes. Free for 30 days
 
