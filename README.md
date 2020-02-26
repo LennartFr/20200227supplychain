@@ -92,7 +92,11 @@ Local Smart Contract Development
 
 Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
 
-<img src="LocalFabric.png">Local Fabric.png">
+<img src="LocalFabric.png">Local Fabric>
+
+1.CA = Certificate Authority
+2.MSP = Membership Service Provider
+3.
 
 # Tutorial 2
 
