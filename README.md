@@ -13,10 +13,7 @@
 
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
-## https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3#classify-an-image
 
-## [Blockchain Platform in the IBM Cloud](https://cloud.ibm.com/catalog/services/blockchain-platform)
-  
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
 ## https://hyperledger-fabric.readthedocs.io/en/release-2.0/
