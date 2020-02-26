@@ -123,15 +123,15 @@ Important: You will need a smart contract package and a suitable cloud environme
 
 package org.example;
 <p>
-import org.hyperledger.fabric.contract.Context;
-import org.hyperledger.fabric.contract.ContractInterface;
-import org.hyperledger.fabric.contract.annotation.Contract;
-import org.hyperledger.fabric.contract.annotation.Default;
-import org.hyperledger.fabric.contract.annotation.Transaction;
-import org.hyperledger.fabric.contract.annotation.Contact;
-import org.hyperledger.fabric.contract.annotation.Info;
-import org.hyperledger.fabric.contract.annotation.License;
-import static java.nio.charset.StandardCharsets.UTF_8;
+import org.hyperledger.fabric.contract.Context;<p>
+import org.hyperledger.fabric.contract.ContractInterface;<p>
+import org.hyperledger.fabric.contract.annotation.Contract;<p>
+import org.hyperledger.fabric.contract.annotation.Default;<p>
+import org.hyperledger.fabric.contract.annotation.Transaction;<p>
+import org.hyperledger.fabric.contract.annotation.Contact;<p>
+import org.hyperledger.fabric.contract.annotation.Info;<p>
+import org.hyperledger.fabric.contract.annotation.License;<p>
+import static java.nio.charset.StandardCharsets.UTF_8;<p>
 <p>
 @Contract(name = "MyCoffeeAssetContract",
     info = @Info(title = "MyCoffeeAsset contract",
