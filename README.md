@@ -52,12 +52,12 @@
 
 # Developing Supply chain Apps
 
-[Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
-
- 1. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
- 2. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
- 3. An account on the IBM Cloud: https://www.ibm.com/cloud
- 4. VS Code Extension https://bit.ly/2RS2R02
+ 1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
+ 2. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
+ 3. VS Code Extension https://bit.ly/2RS2R02
+ 4. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
+ 5. An account on the IBM Cloud: https://www.ibm.com/cloud
+ 
 
 <a href="Bean.png">
 
