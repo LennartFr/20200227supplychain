@@ -56,8 +56,6 @@
 
 ### For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
-# Development Tools
-
  1. Visual Studio Code: https://code.visualstudio.com
  2. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
  3. An account on the IBM Cloud: https://www.ibm.com/cloud
