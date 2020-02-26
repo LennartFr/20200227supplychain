@@ -52,25 +52,19 @@
 
 # Developing Supply chain Apps
 
-## [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
+[Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
 
-### For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
-
- 1. Visual Studio Code: https://code.visualstudio.com
+ 1. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
  2. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
  3. An account on the IBM Cloud: https://www.ibm.com/cloud
  4. VS Code Extension https://bit.ly/2RS2R02
 
- IBM Blockchain 101: https://ibm.co/36U1QZM
- 
- Blockchain code patterns: https://ibm.co/2GROsL0
-  
 <a href="Bean.png">
-
 
 <a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain">Installing Visual Studio Code</a>
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
+ 
 For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
@@ -78,6 +72,10 @@ This extension supports the complete development workflow for Hyperledger Fabric
 
 # Hands-on Blockchain
 
+IBM Blockchain 101: https://ibm.co/36U1QZM
+ 
+Blockchain code patterns: https://ibm.co/2GROsL0
+  
 https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 
 # <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
