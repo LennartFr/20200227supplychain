@@ -97,9 +97,9 @@ Follow the typical workflow from generating a new default smart contract project
 
 <img src="LocalFabric.png">Local Fabric>
 
-1.CA = Certificate Authority
+1. CA = Certificate Authority
 
-2.MSP = Membership Service Provider
+2. MSP = Membership Service Provider
 
 
 # Tutorial 2
