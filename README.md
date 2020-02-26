@@ -115,6 +115,7 @@ Deploying and transacting with IBM Cloud
 Important: You will need a smart contract package and a suitable cloud environment to follow this tutorial. Follow parts 1 and 2 of this series first for instructions.
                
 
+<section>
 
 /*
  * SPDX-License-Identifier: Apache-2.0
@@ -205,3 +206,4 @@ public class MyCoffeeAssetContract implements ContractInterface {
     }
 
 }
+</section>
