@@ -69,6 +69,8 @@ For this workshop you will need to confirm you have the Sept 2019 version 1.39.x
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
 
+<a href='https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md">Trouble Shooting the VSCode installation</a>
+
 
 # Hands-on Blockchain
 
