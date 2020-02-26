@@ -65,6 +65,8 @@
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
  
+Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual
+ 
 For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
@@ -85,6 +87,7 @@ https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
 
 Follow tutorials
+
 
 # Tutorial 1
 
