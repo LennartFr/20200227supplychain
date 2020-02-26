@@ -92,6 +92,8 @@ Local Smart Contract Development
 
 Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
 
+[LocalFabric.png](Local Fabric)
+
 # Tutorial 2
 
 Create a cloud blockchain deployment
