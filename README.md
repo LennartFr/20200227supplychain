@@ -70,6 +70,8 @@
 <a href="Bean.png">
 
 
+<a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain">Installing Visual Studio Code</a>
+
 Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
 For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
