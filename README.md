@@ -27,7 +27,6 @@
 <img src="Ledger.png">
 
 
-
 <img src="BP1.png">
 
 ================================================================================================
@@ -62,7 +61,7 @@
 
 <a href="Bean.png">
 
-<a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain">Installing Visual Studio Code</a>
+<a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain"> Installing Visual Studio Code </a>
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
  
