@@ -114,3 +114,85 @@ Deploying and transacting with IBM Cloud
 
 Important: You will need a smart contract package and a suitable cloud environment to follow this tutorial. Follow parts 1 and 2 of this series first for instructions.
                
+
+
+/*
+ * SPDX-License-Identifier: Apache-2.0
+ */
+package org.example;
+
+import org.hyperledger.fabric.contract.Context;
+import org.hyperledger.fabric.contract.ContractInterface;
+import org.hyperledger.fabric.contract.annotation.Contract;
+import org.hyperledger.fabric.contract.annotation.Default;
+import org.hyperledger.fabric.contract.annotation.Transaction;
+import org.hyperledger.fabric.contract.annotation.Contact;
+import org.hyperledger.fabric.contract.annotation.Info;
+import org.hyperledger.fabric.contract.annotation.License;
+import static java.nio.charset.StandardCharsets.UTF_8;
+
+@Contract(name = "MyCoffeeAssetContract",
+    info = @Info(title = "MyCoffeeAsset contract",
+                description = "My Smart Contract",
+                version = "0.0.1",
+                license =
+                        @License(name = "Apache-2.0",
+                                url = ""),
+                                contact =  @Contact(email = "ALFCoffee@example.com",
+                                                name = "ALFCoffee",
+                                                url = "http://ALFCoffee.me")))
+@Default
+public class MyCoffeeAssetContract implements ContractInterface {
+    public  MyCoffeeAssetContract() {
+
+    }
+    @Transaction()
+    public boolean myCoffeeAssetExists(Context ctx, String myCoffeeAssetId) {
+        byte[] buffer = ctx.getStub().getState(myCoffeeAssetId);
+        return (buffer != null && buffer.length > 0);
+    }
+
+    @Transaction()
+    public void createMyCoffeeAsset(Context ctx, String myCoffeeAssetId, String value) {
+        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
+        if (exists) {
+            throw new RuntimeException("The asset "+myCoffeeAssetId+" already exists");
+        }
+        MyCoffeeAsset asset = new MyCoffeeAsset();
+        asset.setValue(value);
+        ctx.getStub().putState(myCoffeeAssetId, asset.toJSONString().getBytes(UTF_8));
+    }
+
+    @Transaction()
+    public MyCoffeeAsset readMyCoffeeAsset(Context ctx, String myCoffeeAssetId) {
+        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
+        if (!exists) {
+            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
+        }
+
+        MyCoffeeAsset newAsset = MyCoffeeAsset.fromJSONString(new String(ctx.getStub().getState(myCoffeeAssetId),UTF_8));
+        return newAsset;
+    }
+
+    @Transaction()
+    public void updateMyCoffeeAsset(Context ctx, String myCoffeeAssetId, String newValue) {
+        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
+        if (!exists) {
+            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
+        }
+        MyCoffeeAsset asset = new MyCoffeeAsset();
+        asset.setValue(newValue);
+
+        ctx.getStub().putState(myCoffeeAssetId, asset.toJSONString().getBytes(UTF_8));
+    }
+
+    @Transaction()
+    public void deleteMyCoffeeAsset(Context ctx, String myCoffeeAssetId) {
+        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
+        if (!exists) {
+            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
+        }
+        ctx.getStub().delState(myCoffeeAssetId);
+    }
+
+}
