@@ -58,6 +58,7 @@
  4. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
  5. An account on the IBM Cloud: https://www.ibm.com/cloud
  
+<a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode><a>
 
 <a href="Bean.png">
 
