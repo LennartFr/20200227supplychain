@@ -18,6 +18,10 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
+
+<img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
+
+
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
 ## https://hyperledger-fabric.readthedocs.io/en/release-2.0/
