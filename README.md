@@ -47,6 +47,8 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 <p>
  
  <img src="Blockchain2.png">
+ 
+ https://github.com/IBM/blockchainbean
 
 <p>
 <img src="Blockchain.png">
