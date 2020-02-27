@@ -39,7 +39,7 @@
 
 ================================================================================================
 
-<img src="FoodIndustry1.png">
+<img src="Foodindustry1.png">
 <p>
  <img src="Foodindustry2.png">
 <p.
