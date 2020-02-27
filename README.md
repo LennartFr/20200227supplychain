@@ -4,7 +4,7 @@
 
 # How to Create a Supply Chain Blockchain App
 
-### Lennart Fratzell, IBM Devloper Advocate San Francisco
+### Lennart Fratzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 ### Grant Steinfeld, IBM Developer Advocate New York City
 
