@@ -35,14 +35,12 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 ## https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-<p>
  
 <img src="FoodIndustry1.png">
 
 <p>
 
 <img src="FoodIndustry2.png">
-<p.
 
 
 <img src="Blockchain1.png">
