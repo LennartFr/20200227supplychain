@@ -26,7 +26,7 @@
 
 ## https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview
 
-## interested in doing a Blockchain MVP?
+## Interested in doing a Blockchain MVP?
 
 ## https://www.ibm.com/blockchain/garage
 
