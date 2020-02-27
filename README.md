@@ -18,7 +18,6 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
-
 <img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
 
 
