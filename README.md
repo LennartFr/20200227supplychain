@@ -38,11 +38,11 @@
 
 ================================================================================================
 
-<img src="Foodindustry1.png">
+<img src="FoodIndustry1.png">
 
 <p>
 
-<img src="Foodindustry2.png">
+<img src="FoodIndustry2.png">
 <p.
 
 # Supply Chain Apps
