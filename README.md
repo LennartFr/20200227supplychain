@@ -6,7 +6,7 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 
 # How to Create a Supply Chain Blockchain App
 
-### Lennart Fratzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
+### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 ### Grant Steinfeld, IBM Developer Advocate New York City
 
