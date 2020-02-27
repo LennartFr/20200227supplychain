@@ -95,8 +95,7 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
  2. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
- 3. VS Code Extension https://bit.ly/2RS2R02
- 4. Followed by the Visual Studio Platform plug-in: https://bit.ly/2RS2R02
+ 3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
  5. An account on the IBM Cloud: https://www.ibm.com/cloud
 ## 6. <a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">Developing smart contracts with Visual Studio Code extension </a>
 
