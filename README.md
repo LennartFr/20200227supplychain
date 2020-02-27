@@ -43,7 +43,12 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 <p.
 
 
+<img src="Blockchain1.png">
+<p>
+ 
+ <img src="Blockchain2.png">
 
+<p>
 <img src="Blockchain.png">
 <p>
 <img src="Transactions.png">
