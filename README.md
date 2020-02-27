@@ -13,6 +13,8 @@
 
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
@@ -27,6 +29,8 @@
 ## https://www.ibm.com/blockchain/garage
 
 ## https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="Blockchain.png">
 <p>
@@ -44,7 +48,7 @@
 
 <img src="BP3 .png">
 
-================================================================================================
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
 ## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
@@ -69,6 +73,8 @@
 
 ## <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Developing Supply chain Apps
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
@@ -79,6 +85,8 @@
 ## 6. <a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">Developing smart contracts with Visual Studio Code extension </a>
 
 <a href="Bean.png">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain"> Installing Visual Studio Code </a>
 
@@ -92,6 +100,7 @@ This extension supports the complete development workflow for Hyperledger Fabric
 
 <a href='https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md">Trouble Shooting the VSCode installation</a>
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hands-on Blockchain
 
