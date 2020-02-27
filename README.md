@@ -38,6 +38,10 @@
 
 ================================================================================================
 
+
+<a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
+
+
 <img src="FoodIndustry1.png">
 
 <p>
