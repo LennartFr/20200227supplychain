@@ -49,6 +49,8 @@
 <img src="FoodIndustry2.png">
 <p.
 
+<a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview">blockchain Component Overview</a>
+
 # Supply Chain Apps
 
 ## <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
