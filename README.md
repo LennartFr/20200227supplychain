@@ -12,7 +12,6 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 
 ### David Nugent, IBM Developer Advocate, San Francisco
 
-
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -112,7 +111,7 @@ For this workshop you will need to confirm you have the Sept 2019 version 1.39.x
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
 
-<a href='https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md">Trouble Shooting the VSCode installation</a>
+https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
