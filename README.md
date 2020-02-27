@@ -21,13 +21,13 @@
 ## https://www.hyperledger.org/projects/fabric
 
 <img src="Blockchain.png">
-
+<p>
 <img src="Transactions.png">
-
+<p>
 <img src="Ledger.png">
-
+<p>
 <img src="BP1.png">
-
+<p>
 ================================================================================================
 
 <img src="BP2.png">
@@ -39,8 +39,10 @@
 ================================================================================================
 
 <img src="Foodindustry1.png">
+
 <p>
- <img src="Foodindustry2.png">
+
+<img src="Foodindustry2.png">
 <p.
 
 # Supply Chain Apps
