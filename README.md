@@ -41,7 +41,7 @@
 
 <img src="FoodIndustry1.png">
 <p>
- <a href="Foodindustry2">
+ <a href="Foodindustry2.png">
 <p.
 
 # Supply Chain Apps
