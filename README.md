@@ -33,6 +33,16 @@
 ## https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+<p>
+ 
+<img src="FoodIndustry1.png">
+
+<p>
+
+<img src="FoodIndustry2.png">
+<p.
+
+
 
 <img src="Blockchain.png">
 <p>
@@ -55,13 +65,6 @@
 
 ## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
 
-
-<img src="FoodIndustry1.png">
-
-<p>
-
-<img src="FoodIndustry2.png">
-<p.
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview">blockchain Component Overview</a>
 
