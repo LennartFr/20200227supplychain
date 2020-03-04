@@ -20,9 +20,9 @@ You need to be at v1.39 release and everything works. This is due to VSCode intr
 
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
-## https://hyperledger-fabric.readthedocs.io/en/release-2.0/
+## [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
 
-## https://www.hyperledger.org/projects/fabric
+## [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
 ## https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview
 
