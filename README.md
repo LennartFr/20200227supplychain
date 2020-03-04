@@ -1,6 +1,6 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# https://bit.ly/2PhVNrP
+# URL to this repo: https://bit.ly/2PhVNrP
 
 # How to Create a Supply Chain Blockchain App
 
@@ -13,7 +13,6 @@
 ## [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqDWA)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 
 <img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
 
@@ -32,10 +31,14 @@
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
- 
+
+### Food industry without blockchain
+
 <img src="FoodIndustry1.png">
 
 <p>
+ 
+### Food industry with blockchain
 
 <img src="FoodIndustry2.png">
 
