@@ -104,20 +104,20 @@ https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TR
 
 # Hands-on Blockchain
 
-IBM Blockchain 101: https://ibm.co/36U1QZM
+### IBM Blockchain 101: https://ibm.co/36U1QZM
  
-Blockchain code patterns: https://ibm.co/2GROsL0
+### Blockchain code patterns: https://ibm.co/2GROsL0
   
-https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
+### https://github.com/Grant-Steinfeld/coffee-supply-chain-blockchain
 
-# <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
+### Youtube Video: <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
-<a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
+### <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
 
 Follow tutorials
 
 
-# Tutorial 1
+### Tutorial 1
 
 Local Smart Contract Development
 
@@ -130,13 +130,13 @@ Follow the typical workflow from generating a new default smart contract project
 2. MSP = Membership Service Provider
 
 
-# Tutorial 2
+### Tutorial 2
 
 Create a cloud blockchain deployment
 
 After developing a smart contract against the local runtime, you'll need somewhere more permanent to deploy for further dev, proof of concept, or production use. IBM Blockchain Platform includes an offering on IBM Cloud for creating and operating a suitable runtime environment for such purposes. Its full name is "IBM Blockchain Platform on IBM Cloud", but for the sake of brevity we'll refer to it from here on out as "the cloud service". In this tutorial you will learn how to get a cloud environment set up using the cloud service.
 
-# Tutorial 3
+### Tutorial 3
 
 Deploying and transacting with IBM Cloud
 
