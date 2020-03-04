@@ -71,7 +71,7 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
-# Supply Chain Apps
+# Some Supply Chain Apps
 
 ## <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
@@ -83,7 +83,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Developing Supply chain Apps
+# Developing Supply Chain Apps: pre-reqs
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
  2. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
