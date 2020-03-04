@@ -1,4 +1,4 @@
-You need to be at v1.39 release and everything works. This is due to VSCode introduced grpc issueYou need to be at v1.39 release and everything works. This is due to VSCode introduced grpc issueYou need to be at v1.39 release and everything works. This is due to VSCode introduced grpc issue<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # https://bit.ly/2PhVNrP
 
