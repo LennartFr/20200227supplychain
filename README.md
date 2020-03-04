@@ -47,11 +47,7 @@
 <img src="FoodIndustry2.png">
 
 <img src="Blockchain1.png">
-<p>
- 
- <img src="Blockchain2.png">
- 
- https://github.com/IBM/blockchainbean
+
 
 <p>
 <img src="Blockchain.png">
