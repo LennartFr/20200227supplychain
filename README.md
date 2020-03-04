@@ -22,6 +22,8 @@
 
 ## [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
+## In addition to the Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
+
 ## [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
 ## [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
