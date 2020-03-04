@@ -16,32 +16,33 @@
 
 <img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
 
-
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
 ## [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
 
 ## [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
-## [Blockchain Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
+## [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
 ## [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
 
 ## [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
 
+## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
+
+## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview">blockchain Component Overview</a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-### Food industry without blockchain
+### Food industry without Blockchain
 
 <img src="FoodIndustry1.png">
 
 <p>
  
-### Food industry with blockchain
+### Food industry with Blockchain
 
 <img src="FoodIndustry2.png">
-
 
 <img src="Blockchain1.png">
 <p>
@@ -69,11 +70,6 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
-## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
-
-
-## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview">blockchain Component Overview</a>
 
 # Supply Chain Apps
 
