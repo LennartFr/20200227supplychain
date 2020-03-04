@@ -117,13 +117,14 @@ https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TR
 Follow tutorials
 
 
-### Tutorial 1
+### Tutorial 1 Local Smart Contract Development
 
-Local Smart Contract Development
+
+<img src="VSCode.png">
 
 Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
 
-<img src="LocalFabric.png">Local Fabric>
+<img src="LocalFabric.png">
 
 1. CA = Certificate Authority
 
