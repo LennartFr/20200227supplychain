@@ -28,11 +28,11 @@
 
 ## [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
 
-## [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
-
 ## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
 
 ## <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview">IBM Blockchain Platform Overview</a>
+
+## [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
