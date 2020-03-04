@@ -36,13 +36,13 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-### Food industry without Blockchain
+## Food industry without Blockchain
 
 <img src="FoodIndustry1.png">
 
 <p>
  
-### Food industry with Blockchain
+## Food industry with Blockchain
 
 <img src="FoodIndustry2.png">
 
@@ -92,8 +92,6 @@
  3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
  5. An account on the IBM Cloud: https://www.ibm.com/cloud
 ## 6. <a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">Developing smart contracts with Visual Studio Code extension </a>
-
-<a href="Bean.png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -145,7 +143,6 @@ Create a cloud blockchain deployment
 
 After developing a smart contract against the local runtime, you'll need somewhere more permanent to deploy for further dev, proof of concept, or production use. IBM Blockchain Platform includes an offering on IBM Cloud for creating and operating a suitable runtime environment for such purposes. Its full name is "IBM Blockchain Platform on IBM Cloud", but for the sake of brevity we'll refer to it from here on out as "the cloud service". In this tutorial you will learn how to get a cloud environment set up using the cloud service.
 
-
 # Tutorial 3
 
 Deploying and transacting with IBM Cloud
@@ -153,87 +150,3 @@ Deploying and transacting with IBM Cloud
 Important: You will need a smart contract package and a suitable cloud environment to follow this tutorial. Follow parts 1 and 2 of this series first for instructions.
                
 
-<section>
-
-/*
- * SPDX-License-Identifier: Apache-2.0
- */
-
-package org.example;
-<p>
-import org.hyperledger.fabric.contract.Context;<p>
-import org.hyperledger.fabric.contract.ContractInterface;<p>
-import org.hyperledger.fabric.contract.annotation.Contract;<p>
-import org.hyperledger.fabric.contract.annotation.Default;<p>
-import org.hyperledger.fabric.contract.annotation.Transaction;<p>
-import org.hyperledger.fabric.contract.annotation.Contact;<p>
-import org.hyperledger.fabric.contract.annotation.Info;<p>
-import org.hyperledger.fabric.contract.annotation.License;<p>
-import static java.nio.charset.StandardCharsets.UTF_8;<p>
-<p>
-@Contract(name = "MyCoffeeAssetContract",
-    info = @Info(title = "MyCoffeeAsset contract",
-                description = "My Smart Contract",
-                version = "0.0.1",
-                license =
-                        @License(name = "Apache-2.0",
-                                url = ""),
-                                contact =  @Contact(email = "ALFCoffee@example.com",
-                                                name = "ALFCoffee",
-                                                url = "http://ALFCoffee.me")))
-@Default
-public class MyCoffeeAssetContract implements ContractInterface {
-    public  MyCoffeeAssetContract() {
-
-    }
-    @Transaction()
-    public boolean myCoffeeAssetExists(Context ctx, String myCoffeeAssetId) {
-        byte[] buffer = ctx.getStub().getState(myCoffeeAssetId);
-        return (buffer != null && buffer.length > 0);
-    }
-
-    @Transaction()
-    public void createMyCoffeeAsset(Context ctx, String myCoffeeAssetId, String value) {
-        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
-        if (exists) {
-            throw new RuntimeException("The asset "+myCoffeeAssetId+" already exists");
-        }
-        MyCoffeeAsset asset = new MyCoffeeAsset();
-        asset.setValue(value);
-        ctx.getStub().putState(myCoffeeAssetId, asset.toJSONString().getBytes(UTF_8));
-    }
-
-    @Transaction()
-    public MyCoffeeAsset readMyCoffeeAsset(Context ctx, String myCoffeeAssetId) {
-        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
-        if (!exists) {
-            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
-        }
-
-        MyCoffeeAsset newAsset = MyCoffeeAsset.fromJSONString(new String(ctx.getStub().getState(myCoffeeAssetId),UTF_8));
-        return newAsset;
-    }
-
-    @Transaction()
-    public void updateMyCoffeeAsset(Context ctx, String myCoffeeAssetId, String newValue) {
-        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
-        if (!exists) {
-            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
-        }
-        MyCoffeeAsset asset = new MyCoffeeAsset();
-        asset.setValue(newValue);
-
-        ctx.getStub().putState(myCoffeeAssetId, asset.toJSONString().getBytes(UTF_8));
-    }
-
-    @Transaction()
-    public void deleteMyCoffeeAsset(Context ctx, String myCoffeeAssetId) {
-        boolean exists = myCoffeeAssetExists(ctx,myCoffeeAssetId);
-        if (!exists) {
-            throw new RuntimeException("The asset "+myCoffeeAssetId+" does not exist");
-        }
-        ctx.getStub().delState(myCoffeeAssetId);
-    }
-
-}
-</section>
