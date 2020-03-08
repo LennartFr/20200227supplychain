@@ -6,9 +6,9 @@
 
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
-#### Grant Steinfeld, IBM Developer Advocate New York City
-
 #### David Nugent, IBM Developer Advocate, San Francisco
+
+#### Grant Steinfeld, IBM Developer Advocate New York City
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
