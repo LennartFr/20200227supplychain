@@ -78,7 +78,7 @@
 
 ## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
 
-img src="bean2.png">
+<img src="bean2.png">
 
 ## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
