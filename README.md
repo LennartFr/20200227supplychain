@@ -68,6 +68,8 @@
 
 # Some Supply Chain Apps
 
+<img src="Food Trust.png">
+
 ## FYI: <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
