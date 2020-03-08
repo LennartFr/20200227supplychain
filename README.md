@@ -72,6 +72,8 @@
 
 ## FYI: <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
+<img src='TradeLens.png">
+
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
 ## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
