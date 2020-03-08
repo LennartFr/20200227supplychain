@@ -17,7 +17,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png">
 
-### FYI: Satoshi Nakamoto's historik paper Bitcoin: A Peer-to-Peer Electronic Cash System from 2008 https://bitcoin.org/bitcoin.pdf
+### FYI: Satoshi Nakamoto's historik paper "Bitcoin: A Peer-to-Peer Electronic Cash System" from Dec. 2008 https://bitcoin.org/bitcoin.pdf
 
 <img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
 
