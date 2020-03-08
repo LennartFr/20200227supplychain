@@ -87,23 +87,16 @@
 # Developing Supply Chain Apps: pre-reqs
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
- 2. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
+ 2. Download Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
  3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
- 5. An account on the IBM Cloud: https://www.ibm.com/cloud
- 6. Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
- 7. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual 
- 8. For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
- 9. https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
+ 4. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual  
+ 5. https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hands-on Blockchain
 
->
-
-Follow tutorials
-
-### Tutorial 1 Local Smart Contract Development
+## Tutorial 1 Local Smart Contract Development
 
 <img src="VSCode.png">
 
@@ -116,13 +109,13 @@ Follow the typical workflow from generating a new default smart contract project
 2. MSP = Membership Service Provider
 
 
-### Tutorial 2
+## Tutorial 2
 
 Create a cloud blockchain deployment
 
 After developing a smart contract against the local runtime, you'll need somewhere more permanent to deploy for further dev, proof of concept, or production use. IBM Blockchain Platform includes an offering on IBM Cloud for creating and operating a suitable runtime environment for such purposes. Its full name is "IBM Blockchain Platform on IBM Cloud", but for the sake of brevity we'll refer to it from here on out as "the cloud service". In this tutorial you will learn how to get a cloud environment set up using the cloud service.
 
-### Tutorial 3
+## Tutorial 3
 
 Deploying and transacting with IBM Cloud
 
