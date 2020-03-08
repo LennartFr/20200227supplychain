@@ -68,13 +68,13 @@
 
 # Some Supply Chain Apps
 
-## <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
+## FYI: <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
-## <a href="https://www.tradelens.com">Trade Lens</a>
+## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
-## <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
+## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
 
-## <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
+## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
