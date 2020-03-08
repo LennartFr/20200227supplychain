@@ -90,7 +90,7 @@
  2. Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
  3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
  5. An account on the IBM Cloud: https://www.ibm.com/cloud
-## 6. <a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">Developing smart contracts with Visual Studio Code extension </a>
+ 6. <a href="https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode">Developing smart contracts with Visual Studio Code extension </a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -98,9 +98,8 @@
 
 Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
  
-Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual
- 
-For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
+7. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual 
+8. For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
 
 This extension supports the complete development workflow for Hyperledger Fabric and IBM Blockchain Platform:
 
@@ -121,7 +120,6 @@ https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TR
 ### <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
 
 Follow tutorials
-
 
 ### Tutorial 1 Local Smart Contract Development
 
