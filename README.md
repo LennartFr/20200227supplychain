@@ -21,13 +21,13 @@
 
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platform
 
-## [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
+### FYI: [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
 
-## [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
+### FYI: [Hyperledger Fabric code](https://www.hyperledger.org/projects/fabric)
 
 ## In addition to the Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
 
-## [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
+### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
 ## [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
 
