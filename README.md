@@ -12,7 +12,6 @@
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
-
 <img src="Signup.png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png">
@@ -63,7 +62,6 @@
 
 <img src="BP2.png">
 
-<img src="BP3 .png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
