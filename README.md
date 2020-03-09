@@ -87,12 +87,9 @@
 # Developing Supply Chain Apps: pre-reqs
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
- 2. Visual Studio Code: https://code.visualstudio.com/updates/v1_39. Sept 2019 version 1.39.x 
- 3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
- 5. An account on the IBM Cloud: https://www.ibm.com/cloud
- 6. Download VS Studio code https://code.visualstudio.com/updates/v1_38<p>
- 7. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual 
- 8. For this workshop you will need to confirm you have the Sept 2019 version 1.39.x of Visual Studio Code installed.
+ 2. Download Visual Studio Code: https://code.visualstudio.com/updates/v1_39. Sept 2019 version 1.39.x Be sure to change Setttings/Update:Mode to manual  
+ 3. Download the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
+ 7. Pin VSCode Version!! 
  9. https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
