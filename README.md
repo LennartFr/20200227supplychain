@@ -100,12 +100,6 @@ Follow tutorials
 
 Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
 
-<img src="LocalFabric.png">
-
-1. CA = Certificate Authority
-
-2. MSP = Membership Service Provider
-
 ### Tutorial 2
 
 Create a cloud blockchain deployment
@@ -136,3 +130,8 @@ Important: You will need a smart contract package and a suitable cloud environme
 ### 1.6 Youtube Video: <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
 ### 1.7 <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
+<img src="LocalFabric.png">
+
+1. CA = Certificate Authority
+
+2. MSP = Membership Service Provider
