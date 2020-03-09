@@ -4,6 +4,9 @@
 
 # How to Create a Supply Chain Blockchain App
 
+
+<img src="Honeywell.png">
+
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 #### David Nugent, IBM Developer Advocate, San Francisco
