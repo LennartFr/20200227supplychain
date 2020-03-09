@@ -1,4 +1,4 @@
-                                     <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+ <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # URL to this repo: https://bit.ly/2PhVNrP
 
@@ -56,6 +56,9 @@
 
 <img src="BP2.png">
 
+<p>
+  
+<img src="Smart Contract.png">
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
