@@ -14,7 +14,7 @@
 
 <img src="Signup.png">            
 
-## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
+## Hyperledger Fabric – from The Linux Foundation – is the open source modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
 ### FYI: [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/en/release-2.0/)
 
