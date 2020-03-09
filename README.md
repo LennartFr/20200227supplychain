@@ -4,7 +4,6 @@
 
 # How to Create a Supply Chain Blockchain App
 
-
 <img src="Honeywell.png">
 
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
@@ -68,7 +67,7 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
-# Some Supply Chain Apps
+# Some Supply Chain Apps written in Blockchain
 
 <img src="Food. Trust1.png">
 
