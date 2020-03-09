@@ -88,7 +88,7 @@
 
  1. [Pre-requisites 2.0](https://hyperledger-fabric.readthedocs.io/en/release-2.0/prereqs.html)
  2. Download Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
- 3. Followed by the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
+ 3. Download the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
  4. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual  
  5. https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
 
