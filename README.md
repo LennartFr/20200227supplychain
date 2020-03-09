@@ -1,4 +1,4 @@
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+                                     <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # URL to this repo: https://bit.ly/2PhVNrP
 
@@ -12,13 +12,7 @@
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
-<img src="Signup.png">
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png">
-
-### FYI: Satoshi Nakamoto's historik paper <i> "Bitcoin: A Peer-to-Peer Electronic Cash System" </i>  from Dec. 2008 https://bitcoin.org/bitcoin.pdf
-
-<img src="https://github.com/LennartFr/20200227supplychain/blob/master/Screen%20Shot%202020-02-23%20at%207.56.59%20AM.png">
+<img src="Signup.png">                     png">
 
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
@@ -82,6 +76,11 @@
 
 ## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
+
+
+
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Developing Supply Chain Apps
@@ -94,7 +93,6 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hands-on Blockchain
-
 
 Follow tutorials
 
@@ -124,7 +122,7 @@ Important: You will need a smart contract package and a suitable cloud environme
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
+     
 # Appendix
 
 ### 1.1 <a href="https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain"> Installing Visual Studio Code </a>
