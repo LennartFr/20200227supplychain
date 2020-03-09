@@ -71,14 +71,11 @@
 
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
-## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
-
 <img src="Bean2.png">
 
 ## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
-
-
+## FYI: <a href="https://www.ibm.com/blockchain/industries/supply-chain">IBM Blockchain for Supply Chain </a>
 
 
 
