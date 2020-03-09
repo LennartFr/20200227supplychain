@@ -12,7 +12,7 @@
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
-<img src="Signup.png">                     png">
+<img src="Signup.png">            
 
 ## Hyperledger Fabric – from The Linux Foundation – is the modular blockchain framework that has become the de facto standard for enterprise blockchain platforms.
 
@@ -51,6 +51,9 @@
 <p>
 <img src="Ledger.png">
 <p>
+ 
+ ## Smart Contract
+ 
 <img src="Smart Contract.png">
 <p>
 <img src="BP1.png">
