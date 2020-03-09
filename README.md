@@ -110,50 +110,6 @@ Follow the typical workflow from generating a new default smart contract project
 
 2. MSP = Membership Service Provider
 
-
-
-## 1. Create a new default smart contract project
-The extension can generate a smart contract skeleton in your chosen Hyperledger Fabric supported programming language. This means you start with a basic but useful smart contract rather than a blank-sheet.
-<p>
-For the purposes of this tutorial, we'll use TypeScript as the main example language. Java examples are also shown.
-<p>
-In VS Code, every command can be executed from the Command Palette (press Ctrl+Shift+P, or Cmd+Shift+P on MacOS). All of this extension's commands start with IBM Blockchain Platform:. In the tutorial steps, we'll explain where to click in the UI, but look out for comment-boxes like this one if you want to know the Command Palette alternatives.
-<p>
-### 1. In the left sidebar, click on the IBM Blockchain Platform icon (it looks like a square, and will probably be at the bottom of the set of icons if this was the latest extension you installed)
-<p>
-### 2.
-Mouse-over the SMART CONTRACTS panel, click the ... menu, and select Create New Project from the dropdown.
-<p>
-Command Palette alternative: Create New Project
-<p>
-### 3. For this tutorial, choose the Default Contract option. The Private Data Contract will be covered in a future tutorial.
-<p>
-### 4.Choose a smart contract language. JavaScript, TypeScript, Java and Go are all available. This tutorial will be easiest to follow if you choose TypeScript or Java (please remember to expand the Java sections if you choose Java).
-<p>
-### 5. The extension will ask you if you want to name the asset in the generated contract. This will default to MyAsset, but you're welcome to change it. What do you intend to use your blockchain for? This will determine what type of asset you create, update and read from the ledger: Radish? Pineapple? Penguin? Pick whatever you like! For this tutorial, we'll stick with MyAsset.
-<p>
-Pro Tip: If you decide to change the name of your asset, remember to swap out MyAsset for whatever you named it in future steps!
-<p>
- ### 6.
-Choose a location to save the project. Click Browse, then click New Folder, and name the project what you want e.g. demoContract.
-<p>
-Pro Tip: Avoid using spaces when naming the project!
-<p>
-### 7. 
-Click Create and then select the new folder you just created and click Save.
-<p>
- 
-### 8. 
-Finally, select Add to workspace from the list of options.
-
-<p>
- The extension will generate you a skeleton contract based on your selected language and asset name. Once it's done, you can navigate to the Explorer view (most-likely the top icon in the left sidebar, which looks like a "document" icon) and open the src/my-asset-contract.ts (alternatively, Java contracts are in src/main/java directory, but being a Java developer you might already have guessed that). Congratulations, you've got yourself a smart contract project.
-
-
-
-
-
-
 ### Tutorial 2
 
 Create a cloud blockchain deployment
