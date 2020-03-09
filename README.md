@@ -90,7 +90,7 @@
  2. Download Visual Studio Code: https://code.visualstudio.com. Sept 2019 version 1.39.x 
  3. Download the IBM Blockchain Platform Extension for VS Code: https://bit.ly/2RS2R02
  4. Pin VSCode Version!! Be sure to change Setttings/Update:Mode to manual  
- 5. https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md Trouble Shooting the VSCode installation
+ 5. Troubleshoot the VSCode installation: https://github.com/IBMDeveloperNYC/coffee-supply-chain-blockchain/blob/master/TROUBLE-SHOOTING.md 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
