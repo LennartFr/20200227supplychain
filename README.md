@@ -46,10 +46,7 @@
 <img src="FoodIndustry2.png">
 
 <p>
-<img src="Blockchain.png">
-<p>
-<img src="Transactions.png">
-<p>
+
 <img src="Ledger.png">
 <p>
  
@@ -58,9 +55,6 @@
 <img src="Smart Contract.png">
 <p>
 <img src="BP1.png">
-<p>
-
-<img src="BP2.png">
 
 <p>
   
