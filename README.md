@@ -28,17 +28,14 @@
  
 <p>
 <img src="BP1.png">
-
 <p>
 
-## Smart Contract
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
 ### FYI: [Getting started with the IBM Blockchain Platform](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-get-started-ibp)
 
 ### FYI: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-v2-faq#ibp-v2-faq-vscode-tutorials">IBM Blockchain Platform FAQs</a>
-
 
 ### FYI: [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
 
@@ -59,6 +56,7 @@
 <img src="Ledger.png">
 <p>
 
+## Smart Contracts 
 
 <img src="SmartContract2.png">
 
