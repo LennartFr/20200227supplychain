@@ -63,7 +63,7 @@
 <img src="Ledger.png">
 <p>
 
-## Smart Contracts 
+## Smart Contracts to program the Internet 
 
 <img src="SmartContract2.png">
 
