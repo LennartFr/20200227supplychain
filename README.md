@@ -6,6 +6,11 @@
 
 <img src="Honeywell.png">
 
+<img src="Oracle.png">
+
+<img src="Amsterdam.png">
+
+
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 #### David Nugent, IBM Developer Advocate, San Francisco
