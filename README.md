@@ -34,7 +34,9 @@
 <p>
 <img src="BP1.png">
 <p>
+<img src="BCConsole.png">
 
+<img src='BCConsole1.png">
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
