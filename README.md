@@ -21,7 +21,7 @@
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
-<img src="Signup.png">            
+<img src="/img/Signup.png">            
 
 ## Satoshi Nakamoto's paper: Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf from 2008.
 
@@ -60,13 +60,13 @@
 
 ## Food industry without Blockchain
 
-<img src="FoodIndustry1.png">
+<img src="/img/FoodIndustry1.png">
 
 <p>
  
 ## Food industry with Blockchain
 
-<img src="FoodIndustry2.png">
+<img src="/img/FoodIndustry2.png">
 
 <p>
 
@@ -85,15 +85,15 @@
 
 # Some Supply Chain Apps written in Blockchain
 
-<img src="Food. Trust1.png">
+<img src="/img/Food. Trust1.png">
 
 ## FYI: <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
-<img src="TradeLens.png">
+<img src="/img/TradeLens.png">
 
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
-<img src="Bean2.png">
+<img src="/img/Bean2.png">
 
 ## FYI: <a href="https://www.ibm.com/thought-leadership/blockchainbean/">Blockchain Bean</a>
 
@@ -116,7 +116,7 @@ Follow tutorials
 
 ### Tutorial 1 Local Smart Contract Development
 
-<img src="VSCode.png">
+<img src="/img/VSCode.png">
 
 Follow the typical workflow from generating a new default smart contract project, deploying code to the Local Fabric environment, and testing out your transactions via an application gateway.
 
@@ -150,7 +150,8 @@ Important: You will need a smart contract package and a suitable cloud environme
 ### 1.6 Youtube Video: <a href="https://youtu.be/5b7awLi93-E">Create a simple Coffee Bean Supply Chain Blockchain on Hyperledger Fabric</a>
 
 ### 1.7 <a href="https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/">Create a fair trade supply chain network Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer></a>
-<img src="LocalFabric.png">
+
+<img src="/img/LocalFabric.png">
 
 1. CA = Certificate Authority
 
