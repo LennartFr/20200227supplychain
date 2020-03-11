@@ -40,13 +40,10 @@
  <p>
 <img src="/img/BP3 .png">
 
-bcconsole
+
+## IBM Blockchain Platform Console
 
 <img src="/img/BCConsole.png">
-
-bcconsole1 
-
-<img src="/img/BCConsole1.png">
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
