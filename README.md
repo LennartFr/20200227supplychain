@@ -43,7 +43,7 @@
 
 ## IBM Blockchain Platform Console
 
-<img src="/img/BCConsole.png">
+<img src="/img/BCConsole1.png">
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
