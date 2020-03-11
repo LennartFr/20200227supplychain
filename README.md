@@ -16,13 +16,7 @@
 
 <img src="Oracle.png">
 
-<img src="Amsterdam.png">
-
-<img src="/img/Amsterdam.png">
-                            
-<img src="/img\Amsterdam.png"> 
-
-<img src="\img\Amsterdam.png">  
+<img src="/img/Amsterdam.png">                            
 
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
