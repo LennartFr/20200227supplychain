@@ -12,7 +12,7 @@
 
 ## Blockchain in the news
 
-<img src=/img/"Honeywell.png">
+<img src="/img/Honeywell.png">
 
 <img src="/img/Oracle.png">
 
