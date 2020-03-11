@@ -70,14 +70,14 @@
 
 <p>
 
-<img src="Blockchain.png">
+<img src="/img/Blockchain.png">
 <p>
-<img src="Ledger.png">
+<img src="/img/Ledger.png">
 <p>
 
 ## Smart Contracts to program the Internet 
 
-<img src="SmartContract2.png">
+<img src="/img/SmartContract2.png">
 
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
