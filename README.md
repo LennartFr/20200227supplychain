@@ -10,7 +10,6 @@
 
 <img src="Amsterdam.png">
 
-
 #### Lennart Frantzell, IBM Devloper Advocate San Francisco alf@us.ibm.com
 
 #### David Nugent, IBM Developer Advocate, San Francisco
@@ -46,7 +45,10 @@
 
 ### FYI: [Blockchain Garage can help you get started with Blockchain](https://www.ibm.com/blockchain/garage)
 
+### FYI: Blockchain Code Patterns https://developer.ibm.com/technologies/blockchain/patterns/
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 ## Food industry without Blockchain
 
