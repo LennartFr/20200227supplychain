@@ -34,11 +34,15 @@
 ## In addition to the Open Source Hyperledger Fabric there is the cloud-based IBM Blockchain Platform:
  
 <p>
-<img src="BP1.png">
+<img src="/img/BP1.png">
 <p>
-<img src="BCConsole.png">
+<img src="/img/BP2.png">
+ <p>
+<img src="/img/BP3 .png">
 
-<img src="BCConsole1.png">
+<img src="/img/BCConsole.png">
+
+<img src="/img/BCConsole1.png">
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
