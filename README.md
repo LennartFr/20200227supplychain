@@ -41,9 +41,24 @@
 <img src="/img/BP3 .png">
 
 
-## IBM Blockchain Platform Console
+## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
 
 <img src="/img/BCConsole1.png">
+
+1. Deploy on IBM Cloud
+2. Deploy using Software as a Service (SaaS) 
+3. $0.29 USD
+4. Price per Allocated CPU-Hour (VPC-hour)
+ㅤㅤ ㅤㅤ ㅤㅤ
+<p>IBM Cloud advantages:
+1. No membership fees: Invest directly in your blockchain components
+2. Estimation clarity: Simple hourly pricing model for easier cost control
+3. Scalability to compute: Adjust compute up or down to minimize expense
+4. Leverage your existing IBM Cloud services and components
+5. Billing transparency: Pay as you go with updates on your dashboard
+ㅤㅤ ㅤㅤ ㅤㅤ
+Please note:  The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Kubernetes Service and storage, which are billed separately.
+
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
 
