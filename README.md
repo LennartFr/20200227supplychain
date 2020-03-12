@@ -51,6 +51,7 @@
 4. Price per Allocated CPU-Hour (VPC-hour)
 ㅤㅤ ㅤㅤ ㅤㅤ
 <p>IBM Cloud advantages:
+ 
 1. No membership fees: Invest directly in your blockchain components
 2. Estimation clarity: Simple hourly pricing model for easier cost control
 3. Scalability to compute: Adjust compute up or down to minimize expense
