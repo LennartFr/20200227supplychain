@@ -1,4 +1,3 @@
-## FYI: <a href="https://www.ibm.com/blockchain/solutions/food-trust">IBM Food Trust</a>
 
 <img src="/img/TradeLens.png">
 
