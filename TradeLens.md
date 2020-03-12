@@ -14,6 +14,8 @@
 
 <img src="/img/TradeLens6.png">
 
+<img src="/img/TradeLens7.png">
+
 <img src="/img/TradeLens8.png">
 
 <img src="/img/TradeLens9.png">
