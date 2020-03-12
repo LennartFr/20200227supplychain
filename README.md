@@ -113,6 +113,27 @@ Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Ku
 
 <img src="/img/TradeLens.png">
 
+<img src="/img/TradeLens1.png">
+
+<img src="/img/TradeLens2.png">
+
+<img src="/img/TradeLens3.png">
+
+<img src="/img/TradeLens4.png">
+
+<img src="/img/TradeLens5.png">
+
+<img src="/img/TradeLens6.png">
+
+<img src="/img/TradeLens8.png">
+
+<img src="/img/TradeLens9.png">
+
+<img src="/img/TradeLens10.png">
+
+<img src="/img/TradeLens11.png">
+
+
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
 https://www.tradelens.com/post/what-does-a-digitized-supply-chain-look-like
