@@ -43,6 +43,8 @@
 
 ## IBM Blockchain Platform Console. https://www.ibm.com/cloud/blockchain-platform/pricing
 
+### https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing#ibp-saas-pricing-free-howto
+
 <img src="/img/BCConsole1.png">
 
 1. Deploy on IBM Cloud
@@ -57,7 +59,8 @@
 3. Scalability to compute: Adjust compute up or down to minimize expense
 4. Leverage your existing IBM Cloud services and components
 5. Billing transparency: Pay as you go with updates on your dashboard
-ㅤㅤ ㅤㅤ ㅤㅤ
+
+<p>ㅤㅤ ㅤㅤ ㅤㅤ
 Please note:  The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Kubernetes Service and storage, which are billed separately.
 
 
