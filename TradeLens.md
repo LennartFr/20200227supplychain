@@ -1,6 +1,8 @@
 
 # TradeLens https://www.tradelens.com
 
+<img src="/img/TradeLens1.png">
+
 Transform container logistics by freeing yourself from legacy data systems, manual document handling and poor visibility.
 
 
@@ -15,14 +17,9 @@ inland transportation and customs authorities can interact more efficiently thro
 The trade document module, released under a beta program and called ClearWay, enables importers/exporters, customs brokers, trusted third parties such as Customs, other government agencies, and NGOs to collaborate in cross-organizational business processes and information exchanges, all backed by a secure, non-repudiable audit trail.
 <p>
 
-
-
-
-
-
 <img src="/img/TradeLens.png">
 
-<img src="/img/TradeLens1.png">
+
 
 <img src="/img/TradeLens2.png">
 
