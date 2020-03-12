@@ -4,10 +4,15 @@
 Transform container logistics by freeing yourself from legacy data systems, manual document handling and poor visibility.
 
 
-TradeLens uses IBM Blockchain technology as the foundation for digital supply chains, empowering multiple trading partners to collaborate by establishing a single shared view of a transaction without compromising details, privacy or confidentiality. Shippers, shipping lines, freight forwarders, port and terminal operators, inland transportation and customs authorities can interact more efficiently through real-time access to shipping data and shipping documents, including IoT and sensor data ranging from temperature control to container weight.
+## TradeLens uses IBM Blockchain technology as the foundation for digital supply chains, 
+empowering multiple trading partners to collaborate by establishing a single shared view of a transaction without compromising details, privacy or confidentiality. 
 
-<p>
-Using blockchain smart contracts, TradeLens enables digital collaboration across the multiple parties involved in international trade. The trade document module, released under a beta program and called ClearWay, enables importers/exporters, customs brokers, trusted third parties such as Customs, other government agencies, and NGOs to collaborate in cross-organizational business processes and information exchanges, all backed by a secure, non-repudiable audit trail.
+## Shippers, shipping lines, freight forwarders, port and terminal operators, 
+inland transportation and customs authorities can interact more efficiently through real-time access to shipping data and shipping documents, including IoT and sensor data ranging from temperature control to container weight.
+
+
+## Using blockchain smart contracts, TradeLens enables digital collaboration across the multiple parties involved in international trade. 
+The trade document module, released under a beta program and called ClearWay, enables importers/exporters, customs brokers, trusted third parties such as Customs, other government agencies, and NGOs to collaborate in cross-organizational business processes and information exchanges, all backed by a secure, non-repudiable audit trail.
 <p>
 
 
