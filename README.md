@@ -18,6 +18,7 @@
 
 <img src="/img/Amsterdam.png">                            
 
+<img src="/img/Credentials.png">
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
