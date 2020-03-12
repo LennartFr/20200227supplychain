@@ -61,7 +61,7 @@
 5. Billing transparency: Pay as you go with updates on your dashboard
 
 <p>ㅤㅤ ㅤㅤ ㅤㅤ
-Please note:  The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Kubernetes Service and storage, which are billed separately.
+Please note: The IBM Blockchain Platform for IBM Cloud requires the IBM Cloud Kubernetes Service and storage, which are billed separately.
 
 
 ### FYI: [IBM Blockchain Platform Component Overview](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-blockchain-component-overview)
