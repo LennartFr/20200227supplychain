@@ -20,7 +20,7 @@
 
 <img src="/img/Credentials.png">
 
-<img src="TradeLens1.png">
+<img src="/img/TradeLens1.png">
 
 ## We'll start here: [Sign up to a free IBM Cloud Account](https://ibm.biz/BdqXL6)
 
