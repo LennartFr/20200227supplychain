@@ -23,6 +23,10 @@
 
 <img src="/img/TradeLens11.png">
 
+<img src="/img/TradeLens12.png">
+
+<img src="/img/TradeLens13.png">
+
 
 ## FYI: <a href="https://www.tradelens.com">Trade Lens</a>
 
